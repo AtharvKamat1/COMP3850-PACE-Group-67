@@ -10,3 +10,9 @@ Step 2-3:
 The embedding generation now consists of a for loop to generate "k" shadow models.
 k also decides the random seed to make each split different, resulting in different shadow models.
 Each shadow model is saved as their own npy files.
+
+Now I have create a variable named shadowData which is an array to hold
+all data concerning each individual shadow model.
+This makes it easy now to for loop all the sections of code by refering
+to this one variable with all the shadow model data. 
+This will be applied to all the additional steps. 
