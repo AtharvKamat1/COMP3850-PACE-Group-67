@@ -1,0 +1,16 @@
+Code Execution
+Use the link AtharvKamat1/COMP3850-PACE-Group-67: PACE computing industry project to get access to the GitHub repository
+Clone the repository on any chosen computer/device
+Open Jupyter Notebook through the Anaconda Navigator
+Open the file called SNN+MLP_Shadow.ipynb in Jupyter Notebook (ensure the correct environment is selected)
+Run the code from top to bottom in each cell (could take up to 5 mins).
+
+Creating a Virtual Environment
+To create a new environment or add the packages to an existing environment. 
+Open the requirements.txt file found in the repository. 
+Open Anaconda Navigator and navigate to the environments tab (here new environments can be created) 
+Inside each environment new packages can be added and installed. 
+The list in requirements.txt includes only additional libraries that need to be added into the base environment for the code to be able to run.
+
+Configurations
+The code does not require any additional configurations to execute, as all required data and files are provided through the GitHub repository and can run as provided. Every code block needs to be executed in the provided order. Keep note that some blocks may have commented out code which was only designed to run once (i.e. generating embeddings)
